@@ -1,1 +1,1 @@
-# Tushar-sPortfolio.github.io
+# Beauti-sPortfolio.github.io
