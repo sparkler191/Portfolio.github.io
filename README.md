@@ -1,2 +1,1 @@
-# Portfolio.github.io
-This my Personal Portfolio Website
+# Tushar-sPortfolio.github.io
